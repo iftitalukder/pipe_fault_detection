@@ -1,7 +1,7 @@
 # pipe_fault_detection
 Overview
 
-This script implements and evaluates various machine learning models for classifying vibration data from a dataset. It uses both classical models (Random Forest, SVM, Logistic Regression, and kNN) and a deep learning model (CNN-LSTM) to compare performance on both clean and noisy data. The results from this study will contribute to research presented at ICCCIT 2025.
+This script implements and evaluates various machine learning models for classifying vibration data from a dataset. It uses both classical models (Random Forest, SVM, Logistic Regression, and kNN) and a deep learning model (CNN-LSTM) to compare performance on both clean and noisy data. The results from this study will contribute to research presented at ICCIT 2025.
 
 Purpose
 
